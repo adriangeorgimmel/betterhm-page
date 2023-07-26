@@ -1,21 +1,12 @@
 name: Mobile App Name
 description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+full_description: 'Diese App ist eine inoffizielle Anwendung für dich als Student oder Studentin der Hochschule München.
+Sie bietet dir praktische Funktionen, die dein Studium erleichtern und organisieren. Mit dieser App kannst du den Essensplan der Mensa abrufen, ein Dashboard mit wichtigen Informationen für dein Studium einsehen (wie Fristen und Termine) und deine Privatsphäre schützen, da die App kein Tracking oder Analytics verwendet. 
+Hinweis: Diese App ist inoffiziell und steht in keiner Verbindung mit der Hochschule München. Sie wird von zwei Studierenden, die selbst an der Hochschule München studieren, in ihrer Freizeit entwickelt, die sich über Feedback und Unterstützung freue'
+android: https://play.google.com/store/apps/details?id=de.moritzhuber.betterHm
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+
