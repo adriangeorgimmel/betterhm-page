@@ -1,16 +1,10 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Webpage made with a Jekyll Theme by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      url: https://github.com/dev-redcube
       target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
-      target: _blank
-    - title: Privacy
-      url: /privacy
